@@ -1,3 +1,3 @@
-.buttons.icon_button{
-display:none;
+[data-garden-id="buttons.icon_button"]{
+  display:none;
 }
